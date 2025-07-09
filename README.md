@@ -23,5 +23,20 @@ Built With:
 ✅ Easy customization
 ✅ Real-time data connectivity (Power BI/Excel/SQL Compatible)
 
-->Screenshots:-https://github.com/sibusharma-DA/Supply-Chain-Dashboard-/blob/main/Supplychain%20screenshot.png
+
+### Sales Dashboard
+![Sales Dashboard](https://github.com/user-attachments/assets/fede9ace-439a-49df-92b2-050d265bc1f4)
+
+
+### Decomposition Tee
+![Decomposition Tree](https://github.com/user-attachments/assets/65468896-3a9a-4b57-8e95-b2fd93fa2131)
+
+
+### Comparision
+![Comprison](https://github.com/user-attachments/assets/0548c3b7-9714-4596-a5f5-f3f3f426a8f0)
+
+
+### ForeCast
+![Forecast](https://github.com/user-attachments/assets/02dea49e-1643-4831-93e3-492ff7ac85e3)
+)
 
